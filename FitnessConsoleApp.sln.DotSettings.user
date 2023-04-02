@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f6cced82_002D8182_002D4450_002D89f2_002D399525ac68c5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SaveTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;MSTest::02FC4E12-6A81-4550-974B-5E86171CAD5B::net5.0::FitnessApp.BL.Controller.Tests.UserControllerTests.SaveTest&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;MSTest::02FC4E12-6A81-4550-974B-5E86171CAD5B::net5.0::FitnessApp.BL.Controller.Tests.EatingControllerTests.AddTest&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+      &lt;Project Location="E:\Net_COURSE\Project\FitnessConsoleApp\FitnessApp.BLTests" Presentation="&amp;lt;FitnessApp.BLTests&amp;gt;" /&gt;&#xD;
+      &lt;Namespace&gt;FitnessApp.BL.Controller.Tests&lt;/Namespace&gt;&#xD;
+    &lt;/And&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

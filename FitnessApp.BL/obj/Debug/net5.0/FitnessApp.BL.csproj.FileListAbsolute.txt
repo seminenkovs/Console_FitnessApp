@@ -1,0 +1,15 @@
+E:\Net_COURSE\Project\FitnessConsoleApp\FitnessApp.BL\bin\Debug\net5.0\FitnessApp.BL.deps.json
+E:\Net_COURSE\Project\FitnessConsoleApp\FitnessApp.BL\bin\Debug\net5.0\FitnessApp.BL.dll
+E:\Net_COURSE\Project\FitnessConsoleApp\FitnessApp.BL\bin\Debug\net5.0\FitnessApp.BL.pdb
+E:\Net_COURSE\Project\FitnessConsoleApp\FitnessApp.BL\obj\Debug\net5.0\FitnessApp.BL.csproj.AssemblyReference.cache
+E:\Net_COURSE\Project\FitnessConsoleApp\FitnessApp.BL\obj\Debug\net5.0\FitnessApp.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Net_COURSE\Project\FitnessConsoleApp\FitnessApp.BL\obj\Debug\net5.0\FitnessApp.BL.AssemblyInfoInputs.cache
+E:\Net_COURSE\Project\FitnessConsoleApp\FitnessApp.BL\obj\Debug\net5.0\FitnessApp.BL.AssemblyInfo.cs
+E:\Net_COURSE\Project\FitnessConsoleApp\FitnessApp.BL\obj\Debug\net5.0\FitnessApp.BL.csproj.CoreCompileInputs.cache
+E:\Net_COURSE\Project\FitnessConsoleApp\FitnessApp.BL\obj\Debug\net5.0\FitnessApp.BL.dll
+E:\Net_COURSE\Project\FitnessConsoleApp\FitnessApp.BL\obj\Debug\net5.0\refint\FitnessApp.BL.dll
+E:\Net_COURSE\Project\FitnessConsoleApp\FitnessApp.BL\obj\Debug\net5.0\FitnessApp.BL.pdb
+E:\Net_COURSE\Project\FitnessConsoleApp\FitnessApp.BL\obj\Debug\net5.0\ref\FitnessApp.BL.dll
+E:\Net_COURSE\Project\FitnessConsoleApp\FitnessApp.BL\bin\Debug\net5.0\FitnessApp.BL.runtimeconfig.json
+E:\Net_COURSE\Project\FitnessConsoleApp\FitnessApp.BL\bin\Debug\net5.0\FitnessApp.BL.runtimeconfig.dev.json
+E:\Net_COURSE\Project\FitnessConsoleApp\FitnessApp.BL\obj\Debug\net5.0\FitnessApp.BL.genruntimeconfig.cache
